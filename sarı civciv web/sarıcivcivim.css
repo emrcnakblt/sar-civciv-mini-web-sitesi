@@ -1,0 +1,30 @@
+.text-yellow {
+
+    color: yellow;
+}
+
+body {
+    background-color: black
+}
+
+.boyutlandirma img {
+    max-width: 200px;
+    height: auto;
+}
+
+
+
+.resim {
+border: 10px ridge #ffff00;
+ }
+
+
+ .boyutlandirma2 img {
+    max-width: 500px;
+    height: 400px;
+}
+.resim2 {
+border: 5px ridge #ffff00;
+
+}
+
